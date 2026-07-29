@@ -1,2 +1,2 @@
 # test_dev
-devop_test_for  gits functionality
+devop_test_for  gits functionality ok
