@@ -8,6 +8,10 @@ Rg = {
     name     = "pila"
     location = "westindia"
   }
+  Rg3 = {
+    name     = "new-git-pila"
+    location = "westindia"
+  }
 }
 vnets = {
   VN1 = {
